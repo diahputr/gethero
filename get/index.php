@@ -23,7 +23,7 @@
 			<input type="text" name="talamat" id="talamat" />
 			
 			<input type="submit" name="submit" id="submit" value="Submit">
-		  </for>
+		  </form>
 		<?php include "proses.php";?>
 		</div>
    </div>
