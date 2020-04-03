@@ -5,7 +5,7 @@ $("#submit").click(function(){
 	var lalamat = $("#lalamat").val();
 	var talamat = $("#talamat").val();
 	
-	if( fnama != '' || lalamat !=''){
+	if( fnama != '' || lalamat !='' || talamat !='' ){
 		return true; 
 	}	
 	else{
