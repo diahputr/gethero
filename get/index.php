@@ -17,11 +17,7 @@
 			<input type="text" name="fnama" id="fnama" />
 			
 			<label>Alamat :</label>
-			<input type="text" name="lalamat" id="lalamat" />
-			
-			<label>Pilih Metode :</label>
-			<span><input type="radio" name="method" value="get" checked> GET &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-			<input type="radio" name="method" value="post" > POST </span>	
+			<input type="text" name="lalamat" id="lalamat" />	
 			
 			<input type="submit" name="submit" id="submit" value="Submit">
 		  </for>
