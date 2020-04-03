@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title>GET and POST Method</title>
+    <title>GET Method</title>
     <link rel="stylesheet" href="css/style.css"/>
 	<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
 	<script type="text/javascript" src="js/metode.js"></script>
